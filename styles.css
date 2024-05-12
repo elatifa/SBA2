@@ -1,24 +1,25 @@
 body {
 	font-family: Arial, sans-serif;
-	background-color: hsl(255, 83%, 24%);
-}
+	background-color: hsl(319, 84%, 68%);
+
 
 #tip-form {
 	max-width: 300px;
 	margin: 40px auto;
 	padding: 20px;
-	background-color: hsl(0, 89%, 33%);
+	background-color: hsl(0, 66%, 75%);
 	border: 1px solid #ddd;
 	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 
 button[id="calculate-tip"]:hover {
-	background-color: #3e8e41;
+	background-color: #91ea94;
 }
 
 #tip-result {
 	margin-top: 20px;
 	font-weight: bold;
 	color: hsl(0, 81%, 23%);
+}
 }
